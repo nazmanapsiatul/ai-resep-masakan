@@ -1,0 +1,41 @@
+title,description,ingredients,category,time,budget,image,steps
+
+Garang Asem Ayam,"Ayam kuah asem pedas khas Jawa","500 gr ayam potong | 5 cabe rawit | 2 lembar daun salam | belimbing wuluh | bawang merah | bawang putih | garam | gula | air","Pedas ProteinTinggi Kuah Asam",30,20000,"assets/images/Garang_Asem_Ayam.jpeg","Tumis bawang | Masukkan ayam | Tambahkan daun salam dan cabe | Tambahkan air | Masak hingga matang"
+
+Ayam Suwir Pedas Manis,"Olahan ayam suwir pedas manis","Dada ayam rebus | 5 cabe merah | 2 bawang merah | 2 bawang putih | kecap manis | gula | garam","Pedas ProteinTinggi Manis",25,18000,"assets/images/Ayam_Suwir_Pedas_Manis.jpeg","Haluskan bumbu | Tumis hingga harum | Masukkan ayam | Tambahkan kecap | Sajikan"
+
+Indomie Telur,"Indomie dicampur telur simpel","1 bungkus indomie | 1 butir telur | air secukupnya","CepatMasak Praktis HematBudget",5,7000,"assets/images/Indomie_Telur.jpeg","Rebus air | Masukkan mie | Tambahkan telur | Sajikan"
+
+Nasi Goreng,"Nasi goreng sederhana anak kos","Nasi putih | bawang merah | bawang putih | telur | kecap manis | garam","CepatMasak Mengenyangkan Goreng",15,10000,"assets/images/Nasi_Goreng.jpeg","Tumis bawang | Masukkan telur | Tambahkan nasi | Tambahkan kecap | Sajikan"
+
+Tumis Kangkung,"Tumis kangkung sederhana","Kangkung | bawang putih | cabe merah | garam | minyak goreng","Sehat CepatMasak",10,8000,"assets/images/Tumis_Kangkung.jpeg","Tumis bawang | Masukkan cabe | Tambahkan kangkung | Beri garam | Sajikan"
+
+Tempe Goreng,"Tempe goreng gurih","Tempe | bawang putih | ketumbar | garam","HematBudget Goreng",10,5000,"assets/images/Tempe_Goreng.jpeg","Iris tempe | Rendam bumbu | Goreng hingga matang"
+
+Telur Balado,"Telur pedas balado","4 telur rebus | cabe merah | cabe rawit | bawang merah | bawang putih | tomat | garam | gula","Pedas ProteinTinggi",15,10000,"assets/images/Telur_Balado.jpeg","Goreng telur | Haluskan bumbu | Tumis bumbu | Masukkan telur | Sajikan"
+
+Tahu Kecap Pedas,"Tahu tumis kecap pedas","Tahu | kecap manis | cabe rawit | bawang merah | bawang putih","Pedas HematBudget",10,7000,"assets/images/Tahu_Kecap_Pedas.jpeg","Goreng tahu | Tumis bumbu | Tambahkan kecap | Masukkan tahu"
+
+Sayur Bening Bayam,"Sayur bening bayam","Bayam | jagung | bawang merah | bawang putih | garam | gula","Sehat Kuah",15,8000,"assets/images/Sayur_Bening_Bayam.jpeg","Rebus air | Masukkan jagung | Tambahkan bayam | Beri garam | Sajikan"
+
+Bakwan Sayur,"Bakwan sayur renyah","Kol | wortel | daun bawang | tepung | garam | merica","Cemilan Goreng",20,10000,"assets/images/Bakwan_Sayur.jpeg","Campur bahan | Tambahkan air | Goreng hingga matang"
+
+Cumi Masak Hitam,"Cumi bumbu hitam","500 gr cumi | bawang merah | bawang putih | jahe | garam | gula","ProteinTinggi Pedas",30,25000,"assets/images/Cumi_Masak_Hitam.jpeg","Tumis bawang | Masukkan cumi | Tambahkan bumbu | Masak hingga matang"
+
+Indomie Carbonara,"Indomie carbonara simpel","Mie instan | telur | susu cair | keju","Praktis CepatMasak",10,12000,"assets/images/Indomie_Carbonara.jpeg","Rebus mie | Campur telur dan susu | Tambahkan keju | Sajikan"
+
+Mie Goreng Sayur,"Mie goreng sayur","Mie instan | kol | wortel | telur | minyak","Sehat CepatMasak",10,8000,"assets/images/Mie_Goreng_Sayur.jpeg","Rebus mie | Tumis sayur | Tambahkan mie | Sajikan"
+
+Orak Arik Telur Sayur,"Telur campur sayur","2 telur | wortel | kol | bawang putih | garam | merica","Sehat ProteinTinggi",10,9000,"assets/images/Orak_Arik_Telur_Sayur.jpeg","Tumis bawang | Tambahkan sayur | Masukkan telur | Sajikan"
+
+Sarden Simple,"Sarden praktis","Sarden kaleng | bawang merah | bawang putih | cabe merah","Praktis ProteinTinggi",10,12000,"assets/images/Sarden_Simple.jpeg","Tumis bawang | Masukkan sarden | Tambahkan cabe | Sajikan"
+
+Spaghetti Instan,"Spaghetti instan simpel","Spaghetti instan | saus tomat | sosis | keju","Praktis Mengenyangkan",10,12000,"assets/images/Spaghetti_Instan.jpeg","Rebus spaghetti | Tumis saus | Campur spaghetti | Sajikan"
+
+Telur Dadar,"Telur dadar sederhana","2 telur | garam | daun bawang | minyak","Sarapan ProteinTinggi",5,5000,"assets/images/Telur_Dadar.jpeg","Kocok telur | Tambahkan garam | Goreng hingga matang"
+
+Tempe Bacem,"Tempe bacem manis","Tempe | gula merah | kecap manis | bawang putih | daun salam | lengkuas","HematBudget Manis",25,10000,"assets/images/Tempe_Bacem.jpeg","Rebus semua bahan | Tunggu meresap | Goreng sebentar"
+
+Telur Ceplok Kecap Pedas,"Telur kecap pedas","2 telur | bawang merah | bawang putih | cabe rawit | kecap manis","Pedas CepatMasak",10,7000,"assets/images/Telur_Ceplok_Kecap_Pedas.jpeg","Goreng telur | Tumis bawang dan cabe | Tambahkan kecap | Sajikan"
+
+Ceker Mercon,"Ceker pedas mercon","500 gr ceker | cabe rawit | cabe merah | bawang merah | bawang putih | kecap","SuperPedas ProteinTinggi",30,20000,"assets/images/Ceker_Masak_Pedas.jpeg","Rebus ceker | Tumis bumbu | Masukkan ceker | Tambahkan kecap | Masak hingga meresap"
